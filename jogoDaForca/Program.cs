@@ -140,8 +140,6 @@ class Program
                 Console.WriteLine("Que azar! Tente novamente.");
                 Console.WriteLine("---------------------------------");
             }
-
-            Console.ReadLine();
         }
     }
 
