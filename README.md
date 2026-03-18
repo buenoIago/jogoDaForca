@@ -1,6 +1,6 @@
 # Jogo da Forca
 
-![Demonstração aplicativo](WindowsTerminal_shx1M0XdLZ.gif)
+![](./.docs/WindowsTerminal_shx1M0XdLZ.gif)
 
 ## Projeto
 
